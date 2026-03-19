@@ -1,6 +1,19 @@
 # Fn-logik-Lernen-KI-System-Lebendes-System
 Die Übertragung der FN-Logik auf biologisches und künstliches Lernen. Dieses System ersetzt verlustbehaftete Euler-Modelle (Abwärme) durch prozessorientierte Ganzzahl-Addition. Lernen wird als rekursiver Zyklus aus Impuls, Wachstum und Symmetrie-Verständnis definiert – für eine KI-Generation ohne logische Reibung und thermische Emission.
 
+## 📄 Wissenschaftliche Publikation (PDF)
+
+> **Autor:** Raiko Pulvermacher | **ORCID:** [0009-0003-9431-1001](https://orcid.org/0009-0003-9431-1001)
+
+Das gesamte Projekt ist als wissenschaftliches Paper verfügbar – mit Abstract, Inhaltsverzeichnis, allen vier Kapiteln und Literaturverzeichnis:
+
+**[⬇ Download: Fn-Logik-Lernen-KI-System.pdf](Fn-Logik-Lernen-KI-System.pdf)**
+
+*Fn-Logik: Ein prozessorientiertes Ganzzahl-Lernsystem als biologisch inspiriertes KI-Architekturmodell*
+Raiko Pulvermacher, März 2025, PORL v1.0
+
+---
+
 ## Inhaltsverzeichnis
 
 | Datei | Inhalt |
