@@ -23,6 +23,7 @@ Raiko Pulvermacher, März 2025, PORL v1.0
 | [datei02 – Der Biologische Rhythmus](datei02_Der-Biologische-Rhythmus.md) | Das lebende System: U-U-G Zyklus, 89:11 Struktur-Kosten, biologische Energie-Integrität |
 | [datei03 – KI-Architektur ohne Floats](datei03_KI-Architektur-ohne-Floats.md) | Technisches Manifest: Ganzzahl-Gewichte, Effizienz-Sprung ×1000, Kern/Schablone-Trennung |
 | [datei04 – Dual-Layer-Architektur](datei04_Dual-Layer-Architektur.md) | Ganzzahl-Standard & Maskierung: Kern/Maske-Trennung, atomare Skala, biologische Konvergenz |
+| [datei05 – Graph-Navigation & Frequenz-Synchronisation (v1.02)](datei05_Graph-Navigation-und-Frequenz-Synchronisation.md) | Persistente Knotenklassifikation, geometrisches Locking, Crawler-Traversierung und essenzielle Kompression |
 
 ## Zitierweise
 
